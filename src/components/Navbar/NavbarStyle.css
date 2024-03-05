@@ -1,0 +1,26 @@
+.wrapper {
+
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+  }
+
+  .NavbarUl ul li {
+        padding:0 20px 0 20px;
+        display: inline-block;
+        font-size: 24px;
+        font-weight: 450;
+        box-sizing: border-box;
+        
+        
+  }
+
+  .NavbarUl ul li:not(:last-child):hover{
+    text-shadow: 0 0 30px #3E86F5;
+    font-size: 30px;
+    transition: all 500ms;
+  }
+
